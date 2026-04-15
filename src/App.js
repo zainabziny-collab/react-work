@@ -1,5 +1,5 @@
 import Box from "./component/Box";
-import Header from "./component/header";
+import Header from "./component/Header";
 
 function App() {
     
