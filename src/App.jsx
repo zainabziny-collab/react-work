@@ -1,0 +1,14 @@
+import Box from "./component/Box";
+import Header from "./component/header";
+
+function App() {
+    
+  return (
+    <div className="w-full min-h-screen bg-black text-white ">
+      <Header />
+      <Box />
+    </div>
+  );
+}
+
+export default App;
