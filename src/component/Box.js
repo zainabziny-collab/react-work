@@ -7,7 +7,7 @@ const Box = () => {
           <img src={img} alt="" />
         </div>
         <div className="w-full px-4 py-3 flex flex-col gap-2">
-          <h2 className="text-2xl text-yellow-400">Title</h2>
+          <h2 className="text-2xl text-red-400">Title</h2>
           <h3>Category</h3>
           <p className="text-white/40">Description</p>
           <h3 className="text-[18px] text-yellow-400 ">Price:</h3>
